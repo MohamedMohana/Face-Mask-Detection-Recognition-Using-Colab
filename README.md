@@ -1,1 +1,1 @@
-# Face-Mask-Detection-Recognition-Using-Colab
+# Face Mask Detection and Recognition Using Google Colab
