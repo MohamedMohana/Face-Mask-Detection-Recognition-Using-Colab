@@ -1,6 +1,9 @@
 # Face Mask Detection and Recognition Using Google Colab
 
 
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/mohamedmohana/Face-Mask-Detection-and-Recognition?style=plastic)](https://github.com/MohamedMohana/Face-Mask-Detection-and-Recognition)
+[![GitHub Repo Size](https://img.shields.io/bower/l/bootstrap?style=plastic)](https://choosealicense.com/licenses/mit/)
+
 ## Editor
 <img src="https://cai.kku.edu.sa/sites/cai.kku.edu.sa/themes/cai/cai.png" alt="https://cai.kku.edu.sa/en" style="width:200px;height:200;">
 
@@ -24,7 +27,9 @@ Dataset can be downloaded from [here](https://drive.google.com/file/d/1imONpvavj
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+<!---
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ![Bower](https://img.shields.io/bower/l/bootstrap?style=plastic)
+--->
