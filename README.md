@@ -33,3 +33,18 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ![Bower](https://img.shields.io/bower/l/bootstrap?style=plastic)
 --->
+
+## References & Citations
+Most of the code parts here have been used in this [PAPER](https://arxiv.org/abs/2205.07203). If you are using our code, cite our paper.
+```
+@misc{https://doi.org/10.48550/arxiv.2205.07203,
+  doi = {10.48550/ARXIV.2205.07203},
+  url = {https://arxiv.org/abs/2205.07203},
+  author = {Mohana, Mohamed and B, Prasanalakshmi and Alelyani, Salem and Alsaqer, Mohammed Saleh},
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Fused Deep Neural Network based Transfer Learning in Occluded Face Classification and Person re-Identification},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+```
